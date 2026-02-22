@@ -2,11 +2,11 @@
 
 A React Native mobile application for browsing pets, adding new pet listings, and managing a shopping cart. Built with Expo for cross-platform support on Android and iOS.
 
-## Demo
+## 🎬 App Demo
 
 ```markdown
-[▶ View App Demo] https://github.com/user-attachments/assets/e56d7c51-380d-4cff-af39-2a597ece1cf7
-
+- ▶ [Watch on Google Drive](https://drive.google.com/file/d/1z5wkWTcR2bZc5F8rWEfzx99w2V0cDj-E/view?usp=sharing)
+- ▶ [Watch on GitHub](https://github.com/user-attachments/assets/e56d7c51-380d-4cff-af39-2a597ece1cf7)
 
 
 ```
@@ -59,7 +59,18 @@ A React Native mobile application for browsing pets, adding new pet listings, an
 
 ### Environment Notes
 
-- **ReqRes API**: The app uses ReqRes.in for submitting pet details. An API key is configured in `services/api.js`. For production, move this to an environment variable.
+- **ReqRes API**: This project uses the ReqRes API for submitting pet details. You must configure an API key before running the project.
+  1. Create a .env file: In the root directory of the project, create a file named .env
+  2. Add the following variable:
+     ```bash
+      REQRES_API_KEY=your_api_key_here
+   ```
+   Replace your_api_key_here with your actual key from https://reqres.in
+  3. How to Get an API Key
+  - Visit https://reqres.in
+  - Sign up or log in
+  - Generate an x-api-key
+  - Copy the key into your .env file
 - **Network**: Ensure your device/emulator has internet access for API calls (random dog images, pet submission).
 
 ---
