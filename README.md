@@ -4,11 +4,13 @@ A React Native mobile application for browsing pets, adding new pet listings, an
 
 ## 🎬 App Demo
 
-```markdown
-- ▶ [![Watch on Google Drive](demo/Screenshot.png)](https://drive.google.com/file/d/1z5wkWTcR2bZc5F8rWEfzx99w2V0cDj-E/view?usp=sharing)
-
-
-```
+<p align="center">
+  <a href="https:sdrive.google.com/file/d/1z5wkWTcR2bZc5F8rWEfzx99w2V0cDj-E/view?usp=sharing">
+    <img src="demo/Screenshot.png" width="300" />
+  </a>
+  <br />
+  <em>👆 Click to watch demo</em>
+</p>
 
 ---
 
