@@ -34,8 +34,8 @@ A React Native mobile application for browsing pets, adding new pet listings, an
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
-   cd pet-shop-app
+   git clone https://github.com/itsAnjanaMourya/paw-mate.git
+   cd paw-mate
    ```
 
 2. **Install dependencies**
