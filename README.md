@@ -5,7 +5,10 @@ A React Native mobile application for browsing pets, adding new pet listings, an
 ## Demo
 
 ```markdown
-[▶ View App Demo](demo/app-demo.mp4)
+[▶ View App Demo] https://github.com/user-attachments/assets/e56d7c51-380d-4cff-af39-2a597ece1cf7
+
+
+
 ```
 
 ---
@@ -165,6 +168,3 @@ Splash (3s) → HomeScreen
 
 ---
 
-## License
-
-Private project.
